@@ -1,4 +1,8 @@
 <?php
+/**
+ * getCollectionPointsByPostalCode demo to MC LIFESTYLE
+ * https://www.mc-lifestyle.com
+ */
   header('Content-Type: text/html; charset=UTF-8');
   require_once 'soapSettings.php';
   $option=array(
